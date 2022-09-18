@@ -1,0 +1,6 @@
+برای پیاده سازی تقویم در برنامه از چه کلاسی استفاده شده است؟
+JRadioButton
+JComboBox
+JLabel
+JTextArea
+2

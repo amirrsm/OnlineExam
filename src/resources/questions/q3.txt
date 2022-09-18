@@ -1,0 +1,6 @@
+برای دریافت اطلاعات شماره تلفن کاربر از چه کلاسی استفاده شده است؟
+JRadioButton
+JLabel
+JTextArea
+JTextField
+4
